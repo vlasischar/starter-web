@@ -12,6 +12,7 @@ As stated above, the main purposes is to provide simple xamples for Git training
 This is a simple web project, deployment can be on any web server or even local file system.
 
 ## How to contribute
+Please fork this repository and then issue a pull request for review
 
 ## Copyright
 Copyrights BasketHead
